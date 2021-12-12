@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-You can view my CV as a PDF [here](https://vir-k01.github.io/files/CV_VirKaran_Full.pdf). 
-<a href="files/CV_VirKaran_Full.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+Areas of Interests
+======
+1. Deep Learning
+2. Multi-scale Materials Modelling
+3. Materials Design
+4. Materials Informatics
+5. Integrated Computational Materials Engg.
 
 Publications
 ======
