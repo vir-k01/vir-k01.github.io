@@ -4,7 +4,7 @@ main:
     url: /research/   
         
   - title: "CV"
-    url: /cv/
+    url: /files/CV_VirKaran_Full.pdf
 
-  - title: "Media"
-    url: /media-archive/
+  - title: "Misc."
+    url: /misc/
