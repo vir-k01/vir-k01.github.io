@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can view my CV [here](https://vir-k01.github.io/files/CV_VirKaran_Full.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
