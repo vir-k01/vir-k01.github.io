@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Areas of Interests
-======
+The following key-words describe my research interests:
 1. Deep Learning
 2. Multi-scale Materials Modelling
 3. Materials Design
