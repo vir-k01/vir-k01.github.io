@@ -12,9 +12,9 @@ redirect_from:
 The following key-words describe my research interests:
 1. Deep Learning
 2. Multi-scale Materials Modelling
-3. Materials Design
-4. Materials Informatics
-5. Integrated Computational Materials Engg.
+3. Materials Informatics
+4. Integrated Computational Materials Engg.
+5. Data-Driven Modelling and Design of Materials
 
 Publications
 ======
