@@ -53,4 +53,4 @@ I've worked primarily on data-driven methods to model materials, and the followi
 
 ![Phase-Field simulation of a phase deomposition transformation in an undercooled Al-Zn melt!](/files/movie_1.gif)
 
-*Phase-Field simulation of a phase deomposition transformation in an undercooled Al-Zn melt of equal initial concentrations of Al and Zn.*
+*Phase-Field simulation of a phase deomposition transformation in an undercooled Al-Zn melt of equal initial concentrations of Al and Zn. Initially there is diffusion across the domain, followed by nucleation and growth of two compositionally phases (Red and Blue).*
