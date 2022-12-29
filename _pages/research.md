@@ -52,4 +52,5 @@ I've worked primarily on data-driven methods to model materials, and the followi
   - I worked on another phase-field problem (modelling a stress-induced martensitic phase transformation) during my MITACS internship during the summer of 2022. The actual phase-field problem is more complicated, since it involves coupling the equations of mechanical equilibrium to the Allen-Cahn equation. I was able to solve a simple variant of this problem using finite differences, and successfully fit a Physics-Informed Neural Network (PINN) for the same. For complicated loading conditions and anisotropic elastic properties however, the PINN training did not converge, which unfortunaely is a known flaw of this modelling approach. 
 
 ![Phase-Field simulation of a phase deomposition transformation in an undercooled Al-Zn melt!](/files/movie_1.gif)
+
 *Phase-Field simulation of a phase deomposition transformation in an undercooled Al-Zn melt of equal initial concentrations of Al and Zn.*
