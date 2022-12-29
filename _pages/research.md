@@ -16,6 +16,18 @@ The following key-words describe my research interests:
 4. Integrated Computational Materials Engg.
 5. Data-Driven Modelling and Design of Materials
 
+Publications
+======
+1. "Accelerated Solutions of Coupled Phase Field Problems Using Generative Adversarial Networks”
+Vir Karan, Maruthi Indresh, Saswata Bhattacharya, Computational Materials Science _(under review) [Pre-print](https://arxiv.org/abs/2211.12084) available._
+
+2. "Quantification of similarity and physical awareness of microstructures generated via Generative Models”
+Sanket Thakre, Vir Karan, Anand K Kanjarla, Computational Materials Science _(under review)_
+
+3. "Optimization of the deposition process parameters of Silver (Ag) thin films on Silicon substrates using design of experiment method"
+Allamula Ashok, Vir Karan, Peela Lasya, Daljin J, Satyesh Kumar Yadav. _(Manuscript under preparation)_
+
+## Projects
 I've worked primarily on data-driven methods to model materials, and the following is a very brief description of some of the projects I've worked on. You can use the key words that I've highlighted under each project to know more about the methods used, or just shoot me an email!
 
 1. Optimization of Silver thin film characterisitcs using design of experiments (***Key words: Taguchi designs, response surface model fitting, desirability function based optimization***)
@@ -40,14 +52,3 @@ I've worked primarily on data-driven methods to model materials, and the followi
   - Most modelling problems (such as phase-field or fluid dynamics problems) tend to deal with solving a set of strongly coupled PDEs, which is a numercially difficult task. Hence, there has been a lot of research into developing new methods for this task, and of late neural networks have been shown to be promising surrogates.
   - I first worked on this domain for a phase decomposition problem in a ternary alloy, for which I implemented a custom GAN-type network, alongside a fourier neural operator. Both of these models were quite effective in learning the "operator" behind the phase-field PDEs, and for this work I wrote my very first (first-authored) paper! 
   - I worked on another phase-field problem (modelling a stress-induced martensitic phase transformation) during my MITACS internship during the summer of 2022. The actual phase-field problem is more complicated, since it involves coupling the equations of mechanical equilibrium to the Allen-Cahn equation. I was able to solve a simple variant of this problem using finite differences, and successfully fit a Physics-Informed Neural Network (PINN) for the same. For complicated loading conditions and anisotropic elastic properties however, the PINN training did not converge, which unfortunaely is a known flaw of this modelling approach. 
-
-Publications
-======
-1. "Accelerated Solutions of Coupled Phase Field Problems Using Generative Adversarial Networks”
-Vir Karan, Maruthi Indresh, Saswata Bhattacharya, Computational Materials Science _(under review) [Pre-print](https://arxiv.org/abs/2211.12084) available._
-
-2. "Quantification of similarity and physical awareness of microstructures generated via Generative Models”
-Sanket Thakre, Vir Karan, Anand K Kanjarla, Computational Materials Science _(under review)_
-
-3. "Optimization of the deposition process parameters of Silver (Ag) thin films on Silicon substrates using design of experiment method"
-Allamula Ashok, Vir Karan, Peela Lasya, Daljin J, Satyesh Kumar Yadav. _(Manuscript under preparation)_
