@@ -19,7 +19,7 @@ The following key-words describe my research interests:
 Publications
 ======
 1. "Accelerated Solutions of Coupled Phase Field Problems Using Generative Adversarial Networks”
-Vir Karan, Maruthi Indresh, Saswata Bhattacharya, Computational Materials Science _(under review) [Pre-print](https://arxiv.org/abs/2211.12084) available._
+Vir Karan, Maruthi Indresh, Saswata Bhattacharya, Computational Materials Science _(under review) [Pre-print available](https://arxiv.org/abs/2211.12084)._
 
 2. "Quantification of similarity and physical awareness of microstructures generated via Generative Models”
 Sanket Thakre, Vir Karan, Anand K Kanjarla, Computational Materials Science _(under review)_
