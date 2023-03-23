@@ -20,7 +20,7 @@ Publications
 ======
 1. **Vir Karan**, A. Maruthi Indresh, and Saswata Bhattacharya. "Accelerated Solutions of Coupled Phase-Field Problems using Generative Adversarial Networks." arXiv preprint arXiv:2211.12084 (2022). [Pre-Print PDF](https://arxiv.org/abs/2211.12084)
 
-2. Sanket Thakre, **Vir Karan**, and Anand K. Kanjarla. "Quantification of similarity and physical awareness of microstructures generated via generative models." Computational Materials Science 221 (2023): 112074. [Full-Text] (https://doi.org/10.1016/j.commatsci.2023.112074)
+2. Sanket Thakre, **Vir Karan**, and Anand K. Kanjarla. "Quantification of similarity and physical awareness of microstructures generated via generative models." Computational Materials Science 221 (2023): 112074. [Full-Text](https://doi.org/10.1016/j.commatsci.2023.112074)
 
 3. Ashok, Allamula*, **Vir Karan***, Peela Lasya, Daljin Jacob, Parasuraman Swaminathan, and Satyesh Kumar Yadav. "Optimization of the deposition process parameters of DC magnetron sputtering to achieve desired deposition rate using design of experiment method.", Journal of Electronic Materials _(Under review)_ [Pre-Print PDF](https://www.researchgate.net/publication/368894840_Optimization_of_the_deposition_process_parameters_of_DC_magnetron_sputtering_to_achieve_desired_deposition_rate_using_design_of_experiment_method)
 
