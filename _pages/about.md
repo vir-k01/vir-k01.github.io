@@ -14,7 +14,7 @@ Outside of academics, I was one of the student heads of [Mind Trials](https://mi
 
 In my spare time, I like to consume good "content" (if there is an acclaimed movie or tv series, there's a pretty good chance I'd have seen it). You can get a glimpse of what I'm watching [here](https://letterboxd.com/virk_01/)! 
 
-### News
+# News
 
 **[July 2023]** Awarded the *Vijay Jagannathan Award* for the best academic record based on core and elective courses in the Department of MME in the B.Tech batch of 2019-2023.
 
