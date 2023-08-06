@@ -16,6 +16,8 @@ In my spare time, I like to consume good "content" (if there is an acclaimed mov
 
 # News
 
+**[August 2023]** Work on *[Optimization of the deposition process parameters of DC magnetron sputtering to achieve desired deposition rate using design of experiment method](https://doi.org/10.1007/s11664-023-10628-y)* accepted in the Journal of Electronic Materials!
+
 **[July 2023]** Awarded the *Vijay Jagannathan Award* for the best academic record based on core and elective courses in the Department of MME in the B.Tech batch of 2019-2023.
 
 **[July 2023]** Awarded the *Dhandapani Memorial Prize* for the best academic record amongst the B.Tech batch of 2019-2023 in MME, IIT Madras.
