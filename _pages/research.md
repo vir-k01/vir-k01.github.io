@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-The following key-words describe my research interests:
-1. Deep Learning
-2. Multi-scale Materials Modelling
+Here's a link to my [Google Scholar](https://scholar.google.com/citations?user=GUaXLLgAAAAJ&hl=en) page. In short, the following key-words describe my research interests:
+1. Computational Materials Science
+2. Deep Learning
 3. Materials Informatics
-4. Integrated Computational Materials Engg.
-5. Data-Driven Modelling and Design of Materials
+4. First principles Modelling of Materials 
+5. Solid-State Phase Transformations
 
 Publications
 ======
