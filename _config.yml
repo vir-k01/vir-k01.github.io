@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Vir Karan"
   avatar           : "profile_2022.jpg"
-  bio              : "Incoming graduate student, UC Berkeley | IIT Madras MME '23"
-  location         : "Hyderabad, India"
+  bio              : "PhD Student, UC Berkeley/LBNL | IIT Madras MME '23"
+  location         : "Berkeley, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GUaXLLgAAAAJ&hl=en"
   email            : "virkaran123456@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
