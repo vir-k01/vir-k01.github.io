@@ -16,9 +16,9 @@ In my spare time, I like to consume good "content" (if there is an acclaimed mov
 
 # News
 
-**[July 2025]** I presented my work on *[Decoding kinetic selectivity in diffusion-limited solid state synthesis reactions through machine-learning accelerated molecular dynamics](https://openreview.net/pdf?id=QfJe3DNtUz) at the AI4X 2025 Conference in Singapore!
+**[July 2025]** I presented my work on *[Decoding kinetic selectivity in diffusion-limited solid state synthesis reactions through machine-learning accelerated molecular dynamics](https://openreview.net/pdf?id=QfJe3DNtUz)* at the AI4X 2025 Conference in Singapore!
 
-**[May 2025]** I recieved my **[Master of Science degree]** in Materials Science and Engineering at UC Berkeley!
+**[May 2025]** I recieved my **Master of Science degree** in Materials Science and Engineering at UC Berkeley!
 
 **[April 2025]** I presented my work on *[Ion correlations explain kinetic selectivity in diffusion-limited solid state synthesis reactions](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4186602)* at MRS Spring 2025 Meeting in Seattle!
 
