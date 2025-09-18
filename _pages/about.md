@@ -8,13 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student in the [Persson Group](https://perssongroup.lbl.gov/) at the University of California, Berkeley, wherein I'm pursuing a Master's + PhD degree in Materials Science and Engineering. I presently work on predicting synthesis pathways for solid-state reactions to produce (useful) inorganic materials. Before this, I completed an undergraduate in the Metallurgical and Materials Engineering Department at IIT Madras. In my senior year, I worked as an undergrad researcher at the [Materials Design Group](https://mme.iitm.ac.in/satyesh/) at IITM. I was a MITACS Gloablink Intern in the [Centre for Design of Advanced Materials](https://sites.ualberta.ca/~jdhogan/index.html) at the University of Alberta, Edmonton over the summer of 2022, and before that, I was a [Young Research Fellow](https://yrf.iitm.ac.in/) with the Mechanics of Microstructures Group at MME, IIT Madras. You can find more about my work [here](https://vir-k01.github.io/research/) and a copy of my CV [here](https://vir-k01.github.io/files/CV_Berkeley.pdf). 
+I'm a graduate student in the [Persson Group](https://perssongroup.lbl.gov/) at the University of California, Berkeley, wherein I'm pursuing a Master's + PhD degree in Materials Science and Engineering. I presently work on predicting synthesis pathways for solid-state reactions to produce inorganic materials. Before this, I completed an undergraduate in the Metallurgical and Materials Engineering Department at IIT Madras. In my senior year, I worked as an undergrad researcher at the [Materials Design Group](https://mme.iitm.ac.in/satyesh/) at IITM. I was a MITACS Gloablink Intern in the [Centre for Design of Advanced Materials](https://sites.ualberta.ca/~jdhogan/index.html) at the University of Alberta, Edmonton over the summer of 2022, and before that, I was a [Young Research Fellow](https://yrf.iitm.ac.in/) with the Mechanics of Microstructures Group at MME, IIT Madras. You can find more about my work [here](https://vir-k01.github.io/research/) and a copy of my CV [here](https://vir-k01.github.io/files/CV_Berkeley.pdf). 
 
 Outside of academics, I was one of the student heads of [Mind Trials](https://mindtrials.shaastra.org/), an initiative which was a part of [Shaastra](https://shaastra.org/) 2022, which is the annual technical fest of IIT Madras, wherein the objective was to improve awareness of behavioural science amongst the masses and tackle a few pressing societal issues, such as road safety, sanitation habits and nutrition using the principles of behavioural design. Continuing this initiative, I was also one of the founders of the Behavioural Insights Club at IIT Madras.  
 
-In my spare time, I like to consume good "content" (if there is an acclaimed movie or tv series, there's a pretty good chance I'd have seen it). You can get a glimpse of what I'm watching [here](https://letterboxd.com/virk_01/)! 
+In my spare time, I like to consume good "content" (if there is an acclaimed movie or tv series, there's a pretty good chance I'd have seen it). You can get a glimpse of what I'm watching [here](https://letterboxd.com/virk_01/)! In addition, like most people in the Bay Area, I like spending time in the mountains. 
 
 # News
+
+**[July 2025]** I presented my work on *[Decoding kinetic selectivity in diffusion-limited solid state synthesis reactions through machine-learning accelerated molecular dynamics](https://openreview.net/pdf?id=QfJe3DNtUz) at the AI4X 2025 Conference in Singapore!
+
+**[May 2025]** I recieved my **[Master of Science degree]** in Materials Science and Engineering at UC Berkeley!
+
+**[April 2025]** I presented my work on *[Ion correlations explain kinetic selectivity in diffusion-limited solid state synthesis reactions](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4186602)* at MRS Spring 2025 Meeting in Seattle!
+
+**[January 2025]** My work on *[Ion correlations explain kinetic selectivity in diffusion-limited solid state synthesis reactions](https://arxiv.org/abs/2501.08560)* is now on ArXiv. 
 
 **[August 2023]** Started as a graduate student in the [Persson Group](https://perssongroup.lbl.gov/) at UC Berkeley/Lawrence Berkeley National Lab!
  
