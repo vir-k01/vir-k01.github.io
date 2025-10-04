@@ -18,11 +18,16 @@ Here's a link to my [Google Scholar](https://scholar.google.com/citations?user=G
 
 Publications
 ======
-1. Ashok Allamula*, **Vir Karan***, Peela Lasya, Daljin Jacob, Parasuraman Swaminathan, and Satyesh Kumar Yadav. "Optimization of the deposition process parameters of DC magnetron sputtering to achieve desired deposition rate using design of experiment method.", Journal of Electronic Materials (2023) [[Full-Text](https://doi.org/10.1007/s11664-023-10628-y)] (*-contributed equally)
 
-2. Sanket Thakre, **Vir Karan**, and Anand K. Kanjarla. "Quantification of similarity and physical awareness of microstructures generated via generative models." Computational Materials Science 221 (2023): 112074. [[Full-Text](https://doi.org/10.1016/j.commatsci.2023.112074)]
+- Bryant Y Li, **Vir Karan**, Aaron D Kaplan, Mingjian Wen, Kristin A Persson. "An Atomistic Study of Reactivity in Solid-State Electrolyte Interphase Formation for Li/Li7P3S11", The Journal of Physical Chemistry C 2025 129 (36), 16043-16054. [[Full-Text](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.5c03589)]
 
-3. **Vir Karan**, A. Maruthi Indresh, and Saswata Bhattacharya. "Accelerated Solutions of Coupled Phase-Field Problems using Generative Adversarial Networks." arXiv preprint arXiv:2211.12084 (2022). [[Pre-Print PDF](https://arxiv.org/abs/2211.12084)]
+- **Vir Karan,** Max C. Gallant, Yuxing Fei, Gerbrand Ceder, Kristin A. Persson. "Ion correlations explain kinetic selectivity in diffusion-limited solid state synthesis reactions", arXiv preprint arXiv:2501.08560 (2025). [[Pre-Print PDF](https://arxiv.org/abs/2501.08560)]
+
+- Ashok Allamula*, **Vir Karan***, Peela Lasya, Daljin Jacob, Parasuraman Swaminathan, and Satyesh Kumar Yadav. "Optimization of the deposition process parameters of DC magnetron sputtering to achieve desired deposition rate using design of experiment method.", Journal of Electronic Materials (2023) [[Full-Text](https://doi.org/10.1007/s11664-023-10628-y)] (*-contributed equally)
+
+- Sanket Thakre, **Vir Karan**, and Anand K. Kanjarla. "Quantification of similarity and physical awareness of microstructures generated via generative models." Computational Materials Science 221 (2023): 112074. [[Full-Text](https://doi.org/10.1016/j.commatsci.2023.112074)]
+
+- **Vir Karan**, A. Maruthi Indresh, and Saswata Bhattacharya. "Accelerated Solutions of Coupled Phase-Field Problems using Generative Adversarial Networks." arXiv preprint arXiv:2211.12084 (2022). [[Pre-Print PDF](https://arxiv.org/abs/2211.12084)]
 
 # Projects
 I've worked primarily on data-driven methods to model materials, and the following is a very brief description of some of the projects I've worked on. You can use the key words that I've highlighted under each project to know more about the methods used, or just shoot me an email!
